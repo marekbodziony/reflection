@@ -34,12 +34,14 @@ change?
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
-	When we want to experiment and don't want to mess with our actual stable version. 
+> When we want to experiment and don't want to mess with our actual stable version. 
 
 
 
 
 How do the diagrams help you visualize the branch structure?
+
+> It shows in which point new branch was created and which part is common and which is not.
 
 
 
