@@ -32,10 +32,9 @@ change?
 
 
 What are some situations when branches would be helpful in keeping your history
-organized? 
+organized? How would branches help?
 
-
-How would branches help?
+	When we want to experiment and don't want to mess with our actual stable version. 
 
 
 
