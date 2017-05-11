@@ -48,11 +48,17 @@ How do the diagrams help you visualize the branch structure?
 
 What is the result of merging two branches together? 
 
+> Now all commits will be in branch that was checkout
 
-Why do we represent it in
+
+Why do we represent it in 
 the diagram the way we do?
 
+> It can be seen when there was a new branch created and what commits were made in both branches
 
-What are the pros and cons of Git’s automatic merging vs. always doing merges
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges 
 manually?
 
+> 
+Aoutomatic is easy and fast. In manual merge I can decide which changes should be in final version
